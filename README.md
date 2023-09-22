@@ -9,6 +9,14 @@ Mereka memutuskan untuk melihat lebih dekat pada data transaksi pelanggan yang t
 
 Hasil dari analisis mendalam terhadap data ini akan menjadi kunci bagi tim Sales & Marketing dalam mengidentifikasi segmen pelanggan yang memiliki potensi besar untuk meningkatkan penjualan setiap produk dan platform. Dengan wawasan yang diperoleh dari data ini, mereka akan dapat mengarahkan strategi pemasaran yang lebih terfokus dan efektif, serta memberikan pengalaman berbelanja yang lebih personal kepada pelanggan.
 
+# Rumusan Masalah
+
+ >1. Bagaimana pola transaksi pelanggan supermarket?<br>
+ >2. Apa saja karakteristik atau profil pelanggan supermarket? apakah karakteristik pelanggan berkaitan dengan pola transaksi pelanggan?<br>
+ >3. Bagaimana performansi penjualan lini produk? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi penjualan dari setiap lini produk?
+ >4. Bagaimana performansi platform transaksi supermarket? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi frekuensi traksaksi dari setiap platform?
+
+
 # Bagian- Bagian dalam EDA
 
 1. Data Understanding
