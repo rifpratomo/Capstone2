@@ -11,10 +11,10 @@ Hasil dari analisis mendalam terhadap data ini akan menjadi kunci bagi tim Sales
 
 # Rumusan Masalah
 
- >1. Bagaimana pola transaksi pelanggan supermarket?<br>
- >2. Apa saja karakteristik atau profil pelanggan supermarket? apakah karakteristik pelanggan berkaitan dengan pola transaksi pelanggan?<br>
- >3. Bagaimana performansi penjualan lini produk? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi penjualan dari setiap lini produk?
- >4. Bagaimana performansi platform transaksi supermarket? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi frekuensi traksaksi dari setiap platform?
+1. Bagaimana pola transaksi pelanggan supermarket?<br>
+2. Apa saja karakteristik atau profil pelanggan supermarket? apakah karakteristik pelanggan berkaitan dengan pola transaksi pelanggan?<br>
+3. Bagaimana performansi penjualan lini produk? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi penjualan dari setiap lini produk?
+4. Bagaimana performansi platform transaksi supermarket? bagaimana karakteristik dan pola transaksi pelanggan dapat mempengaruhi frekuensi traksaksi dari setiap platform?
 
 
 # Bagian- Bagian dalam EDA
